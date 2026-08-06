@@ -263,3 +263,32 @@ A mental wellness web application designed to help users better understand anxie
 - 🏗️ System Design & Software Architecture
 - 🚀 Performance Optimization & Technical SEO
 - ☁️ Cloud Deployment & DevOps Best Practices
+
+
+# 🏆 Achievements
+
+- 🥇 **State Karate Gold Medalist** – Represented my state in Karate and secured a Gold Medal.
+
+- 🥉 **National Karate Bronze Medalist** – Represented my state at the national level and secured a Bronze Medal.
+
+- 🎓 **Campus Ambassador** – Represented **IIT Delhi (Tryst'26)** and **IIT Bombay**, promoting technical events, innovation, and student engagement.
+
+- 💼 **Industry Experience** – Built AI-powered web applications and contributed to modern full-stack development across professional environments.
+
+- 🚀 **Open Source & Personal Projects** – Designed and developed multiple full-stack, AI-powered, and SEO-focused applications using modern web technologies.
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarnilima1512-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnilima1512-bit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnilima1512-bit&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
