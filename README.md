@@ -185,3 +185,70 @@ Developed an AI-powered Retrieval-Augmented Generation (RAG) assistant during my
 `Nuxt.js` `Gemini API` `Notion API` `TypeScript` `Generative AI`
 
 ---
+
+
+
+## 🎨 Gold Fish Talents
+
+A professional networking platform designed for artists and creative professionals to showcase their work, build connections, and discover career opportunities.
+
+**Key Features**
+- User authentication and profile management
+- Portfolio showcase for creative professionals
+- Responsive and intuitive user interface
+- Modern web architecture with scalable components
+
+**Tech Stack**
+
+`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
+
+---
+
+## 🔮 Jyotish – AI-Powered Astrology Platform
+
+An intelligent Vedic astrology platform offering personalized insights through AI-powered features and traditional astrology principles.
+
+**Key Features**
+- AI-powered Tarot Reading
+- Numerology Analysis
+- Daily Horoscope
+- Panchang
+- Zodiac-based predictions
+- Interactive and responsive user interface
+
+**Tech Stack**
+
+`Nuxt.js` `Vue.js` `TypeScript` `Gemini API` `Notion`
+
+---
+
+## 🎮 Kizuna – Interactive Zip Game
+
+Kizuna is a browser-based interactive game developed to deliver an engaging gaming experience with smooth gameplay, reusable components, and optimized performance. The project demonstrates modern frontend development principles, responsive design, and containerized deployment using Docker.
+
+**Key Features**
+- Responsive gameplay experience
+- Reusable component architecture
+- Optimized asset management
+- Docker support for containerized deployment
+- Performance-focused implementation
+
+**Tech Stack**
+
+`React.js` `JavaScript` `Docker` `CSS`
+
+---
+
+## 🧠 MindCheck
+
+A mental wellness web application designed to help users better understand anxiety and depression through interactive assessments and a clean user experience.
+
+**Key Features**
+- Interactive mental health assessment
+- User-friendly interface
+- Responsive design
+- Educational mental wellness resources
+
+**Tech Stack**
+
+`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
