@@ -42,34 +42,43 @@ I enjoy building scalable web applications, AI-powered solutions, and user-centr
 - ⚡ Passionate about SEO, Performance & Modern UI
 - 🎯 Open to Software Development Opportunities
 
+
 # 💻 Tech Stack
 
 ### 🌐 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind" />
 </p>
 
 ### ⚙️ Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 🤖 AI & Programming
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### 🗄️ Database
+**AI Technologies**
+- Generative AI
+- RAG (Retrieval-Augmented Generation)
+- Gemini API
+- Prompt Engineering
 
+### 🗄️ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🛠️ DevOps & Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
+
+**Other Tools**
+- Notion
+- Vercel
+- Netlify
+- GitHub Actions
+
