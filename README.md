@@ -292,3 +292,21 @@ A mental wellness web application designed to help users better understand anxie
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnilima1512-bit&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kumarnilima1512-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Nilima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarnilima1512-bit&theme=tokyo-night&hide_border=true)](https://github.com/kumarnilima1512-bit)
+
+</div>
