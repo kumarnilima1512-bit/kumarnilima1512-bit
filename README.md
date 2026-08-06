@@ -310,3 +310,30 @@ A mental wellness web application designed to help users better understand anxie
 [![Nilima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarnilima1512-bit&theme=tokyo-night&hide_border=true)](https://github.com/kumarnilima1512-bit)
 
 </div>
+
+# 🌸 Beyond Coding
+
+Outside of software development, I enjoy exploring creativity through various art forms and activities that help me stay disciplined, inspired, and continuously learning.
+
+- 💃 Trained in **Rabindra Nritya, Bharatanatyam, Creative, and Bollywood Dance**
+- 🎹 Enjoy playing the **Piano (Walk Band)** and **Harmonium**
+- 🎨 Passionate about creating **Mandala Art**
+- ✍️ Love writing **Poetry**
+- 🥋 Former **State Karate Gold Medalist** & **National Karate Bronze Medalist**
+
+
+# 🤝 Let's Build Something Amazing Together
+
+If you enjoy my work or would like to collaborate on exciting projects, feel free to connect with me.
+
+⭐ Don't forget to explore my repositories and leave a star if you find something useful!
+
+
+
+<div align="center">
+
+### Thanks for visiting my profile! 💙
+
+*"Building modern web applications with creativity, discipline, and AI."*
+
+</div>
