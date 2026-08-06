@@ -128,3 +128,60 @@ I enjoy building scalable web applications, AI-powered solutions, and user-centr
 - Built a **Retrieval-Augmented Generation (RAG)** AI assistant for organization-specific knowledge retrieval.
 - Integrated **Google Gemini API** with **Notion** as a dynamic knowledge base.
 - Focused on performance optimization, maintainable architecture, and user experience.
+
+
+# 🚀 Featured Projects
+
+## 🌐 Personal Portfolio
+
+A modern, SEO-optimized developer portfolio built with **Nuxt 4** and **Vue.js** to showcase my projects, experience, and technical expertise. The website is designed with performance, accessibility, and recruiter experience in mind.
+
+**Key Features**
+- Responsive and modern UI
+- Advanced SEO optimization with JSON-LD
+- Dynamic sitemap and robots.txt
+- Google Search Console integration
+- Fast performance and clean architecture
+
+**Tech Stack**
+
+`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS` `SEO` `JSON-LD`
+
+---
+
+## 🔍 WebInfo — Website Health Checker
+
+A comprehensive website auditing tool that analyzes technical and SEO metrics to generate detailed website health reports.
+
+**Key Features**
+- HTTP Status Checker
+- Response Time Analysis
+- Meta Title & Description Analysis
+- Heading Structure Analysis
+- Image Alt Attribute Detection
+- Internal & External Link Analysis
+- Word Count Analysis
+- SEO Health Report
+
+**Tech Stack**
+
+`Nuxt.js` `Vue.js` `TypeScript` `Cheerio` `Nitro Server`
+
+---
+
+## 🤖 Enterprise RAG AI Assistant
+
+Developed an AI-powered Retrieval-Augmented Generation (RAG) assistant during my time at **Red Cat Pictures** to provide context-aware responses using organizational knowledge.
+
+**Key Features**
+- Google Gemini API Integration
+- Notion Knowledge Base
+- Context-Aware Responses
+- Prompt Engineering
+- Retrieval-Augmented Generation
+
+**Tech Stack**
+
+`Nuxt.js` `Gemini API` `Notion API` `TypeScript` `Generative AI`
+
+---
