@@ -252,3 +252,14 @@ A mental wellness web application designed to help users better understand anxie
 **Tech Stack**
 
 `Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
+
+
+
+# 🌱 Currently Exploring
+
+- 🤖 AI Agents & Agentic Workflows
+- 🧠 Advanced Retrieval-Augmented Generation (RAG)
+- ⚡ Scalable Full Stack Architecture
+- 🏗️ System Design & Software Architecture
+- 🚀 Performance Optimization & Technical SEO
+- ☁️ Cloud Deployment & DevOps Best Practices
