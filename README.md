@@ -47,38 +47,84 @@ I enjoy building scalable web applications, AI-powered solutions, and user-centr
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 🤖 AI & Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-**AI Technologies**
 - Generative AI
-- RAG (Retrieval-Augmented Generation)
-- Gemini API
+- Retrieval-Augmented Generation (RAG)
+- Gemini API Integration
 - Prompt Engineering
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🛠️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
-**Other Tools**
-- Notion
+### ☁️ Platforms & Productivity
+
 - Vercel
 - Netlify
-- GitHub Actions
+- Notion
 
+
+
+# 💼 Professional Experience
+
+## 🎓 Campus Ambassador | IIT Bombay
+**June 2026 – Present**
+
+- Representing IIT Bombay as a Campus Ambassador.
+- Promoting innovation-driven programs and technical initiatives among students.
+- Organizing outreach activities and fostering student engagement through collaborative campaigns.
+
+---
+
+## 🎓 Campus Ambassador | IIT Delhi – Tryst'26
+**February 2026 – May 2026**
+
+- Represented **Tryst'26**, IIT Delhi's annual technical festival.
+- Promoted technical events and engaged with students through campus outreach.
+- Strengthened leadership, communication, and networking skills while coordinating initiatives.
+
+---
+
+## 🤖 AI/ML Intern | Google for Developers × Eduskills Foundation
+**January 2026 – March 2026**
+
+- Completed hands-on training in **Artificial Intelligence** and **Machine Learning**.
+- Worked on practical AI/ML concepts including data preprocessing, model development, and real-world problem solving.
+- Enhanced analytical thinking and gained industry-oriented experience through project-based learning.
+
+---
+
+## 🤖 AI Data Annotator | RT Network Solutions
+**January 2026 – April 2026**
+
+- Contributed to AI model improvement through high-quality data annotation and validation.
+- Reviewed and labeled datasets while ensuring consistency and accuracy.
+- Collaborated with AI teams to maintain quality standards across machine learning workflows.
+
+---
+
+## 🚀 Nuxt Developer | Red Cat Pictures
+**September 2025 – January 2026**
+
+- Developed modern web applications using **Nuxt.js**, **Vue.js**, and **TypeScript**.
+- Built a **Retrieval-Augmented Generation (RAG)** AI assistant for organization-specific knowledge retrieval.
+- Integrated **Google Gemini API** with **Notion** as a dynamic knowledge base.
+- Focused on performance optimization, maintainable architecture, and user experience.
