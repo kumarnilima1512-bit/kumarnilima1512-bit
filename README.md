@@ -175,7 +175,7 @@ I enjoy building scalable web applications, AI-powered solutions, and user-centr
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/portfolio.png" width="45" alt="Portfolio"/>
+<img src="assets/logos/portfolio.png" width="45" alt="Portfolio"/>
 </td>
 <td>
 
@@ -206,7 +206,7 @@ A modern portfolio built with **Nuxt 4** to showcase my projects, professional e
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/webinfo.png" width="45" alt="WebInfo"/>
+<img src="assets/logos/webinfo.png" width="45" alt="WebInfo"/>
 </td>
 <td>
 
@@ -239,7 +239,7 @@ A modern web auditing tool that analyzes SEO and technical health metrics to gen
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/rcp.png" width="45" alt="RAG AI"/>
+<img src="assets/logos/rcp.png" width="45" alt="RAG AI"/>
 </td>
 <td>
 
@@ -272,7 +272,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant developed during my
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/gft.png" width="45" alt="Gold Fish Talents"/>
+<img src="assets/logos/gft.png" width="45" alt="Gold Fish Talents"/>
 </td>
 <td>
 
@@ -303,7 +303,7 @@ A networking platform for creative professionals to showcase portfolios, connect
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/jyotish.png" width="45" alt="Jyotish"/>
+<img src="assets/logos/jyotish.png" width="45" alt="Jyotish"/>
 </td>
 <td>
 
@@ -332,7 +332,7 @@ An AI-powered astrology platform offering personalized insights through Vedic As
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/kizuna.png" width="45" alt="Kizuna"/>
+<img src="assets/logos/kizuna.png" width="45" alt="Kizuna"/>
 </td>
 <td>
 
@@ -364,7 +364,7 @@ A browser-based logic puzzle game inspired by LinkedIn's Zip challenge, where pl
 <table>
 <tr>
 <td width="70" align="center">
-<img src="asset/logos/mindcheck.png" width="45" alt="MindCheck"/>
+<img src="assets/logos/mindcheck.png" width="45" alt="MindCheck"/>
 </td>
 <td>
 
