@@ -172,126 +172,224 @@ I enjoy building scalable web applications, AI-powered solutions, and user-centr
 
 # 🚀 Featured Projects
 
-## 🌐 Personal Portfolio
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/portfolio.png" width="45" alt="Portfolio"/>
+</td>
+<td>
 
-A modern, SEO-optimized developer portfolio built with **Nuxt 4** and **Vue.js** to showcase my projects, experience, and technical expertise. The website is designed with performance, accessibility, and recruiter experience in mind.
+### Personal Portfolio
 
-**Key Features**
-- Responsive and modern UI
-- Advanced SEO optimization with JSON-LD
-- Dynamic sitemap and robots.txt
-- Google Search Console integration
-- Fast performance and clean architecture
+A modern portfolio built with **Nuxt 4** to showcase my projects, professional experience, and technical expertise while maintaining strong SEO, performance, and accessibility standards.
+
+**Highlights**
+- Responsive UI
+- Advanced SEO (JSON-LD, Sitemap & Robots.txt)
+- Google Search Console Integration
+- Performance Optimized
+- Recruiter-friendly Design
 
 **Tech Stack**
 
-`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS` `SEO` `JSON-LD`
+`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
 
+🌐 **Live Demo:** https://nilima-kumar.vercel.app
+
+💻 **Repository:** https://github.com/kumarnilima1512-bit/Nilima-Kumar
+
+</td>
+</tr>
+</table>
 ---
 
-## 🔍 WebInfo — Website Health Checker
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/webinfo.png" width="45" alt="WebInfo"/>
+</td>
+<td>
 
-A comprehensive website auditing tool that analyzes technical and SEO metrics to generate detailed website health reports.
+### WebInfo — Website Health Checker
 
-**Key Features**
+A modern web auditing tool that analyzes SEO and technical health metrics to generate comprehensive website reports.
+
+**Highlights**
 - HTTP Status Checker
 - Response Time Analysis
-- Meta Title & Description Analysis
-- Heading Structure Analysis
-- Image Alt Attribute Detection
-- Internal & External Link Analysis
-- Word Count Analysis
+- Meta Tag Analysis
+- Heading Structure Detection
+- Image Alt Analysis
+- Internal & External Link Detection
 - SEO Health Report
 
 **Tech Stack**
 
-`Nuxt.js` `Vue.js` `TypeScript` `Cheerio` `Nitro Server`
+`Nuxt.js` `Vue.js` `TypeScript` 
 
+🌐 **Live Demo:** https://web-info-sage.vercel.app
+
+💻 **Repository:** https://github.com/kumarnilima1512-bit/WebInfo
+
+</td>
+</tr>
+</table>
 ---
 
-## 🤖 Enterprise RAG AI Assistant
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/rcp.png" width="45" alt="RAG AI"/>
+</td>
+<td>
 
-Developed an AI-powered Retrieval-Augmented Generation (RAG) assistant during my time at **Red Cat Pictures** to provide context-aware responses using organizational knowledge.
+###  RAG AI Agent
 
-**Key Features**
+An AI-powered Retrieval-Augmented Generation (RAG) assistant developed during my time at **Red Cat Pictures** to provide context-aware responses using organizational knowledge.
+
+**Highlights**
+- RAG Architecture
 - Google Gemini API Integration
 - Notion Knowledge Base
-- Context-Aware Responses
+- Context-Aware AI Responses
 - Prompt Engineering
-- Retrieval-Augmented Generation
 
 **Tech Stack**
 
-`Nuxt.js` `Gemini API` `Notion API` `TypeScript` `Generative AI`
+`Nuxt.js` `Vue.js` `TypeScript` `Gemini API` `Notion API`
 
+
+💻 **Repository:** https://github.com/kumarnilima1512-bit/RED-CAT-CHATBOT
+
+
+</td>
+</tr>
+</table>
 ---
 
 
 
-## 🎨 Gold Fish Talents
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/gft.png" width="45" alt="Gold Fish Talents"/>
+</td>
+<td>
 
-A professional networking platform designed for artists and creative professionals to showcase their work, build connections, and discover career opportunities.
+### Gold Fish Talents
 
-**Key Features**
-- User authentication and profile management
-- Portfolio showcase for creative professionals
-- Responsive and intuitive user interface
-- Modern web architecture with scalable components
+A networking platform for creative professionals to showcase portfolios, connect with collaborators, and discover career opportunities.
 
-**Tech Stack**
-
-`Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
-
----
-
-## 🔮 Jyotish – AI-Powered Astrology Platform
-
-An intelligent Vedic astrology platform offering personalized insights through AI-powered features and traditional astrology principles.
-
-**Key Features**
-- AI-powered Tarot Reading
-- Numerology Analysis
-- Daily Horoscope
-- Panchang
-- Zodiac-based predictions
-- Interactive and responsive user interface
+**Highlights**
+- Portfolio Management
+- Professional Networking
+- Responsive User Interface
+- Scalable Frontend Architecture
 
 **Tech Stack**
 
-`Nuxt.js` `Vue.js` `TypeScript` `Gemini API` `Notion`
+`Nuxt.js` `Vue.js` `TypeScript`
+
+🌐 **Live Demo:** https://goldfishtalents.com
+
+💻 **Repository:** https://github.com/Gold-Fish-Talents/gold-fish-talents
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Kizuna – Interactive Zip Game
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/jyotish.png" width="45" alt="Jyotish"/>
+</td>
+<td>
 
-Kizuna is a browser-based interactive game developed to deliver an engaging gaming experience with smooth gameplay, reusable components, and optimized performance. The project demonstrates modern frontend development principles, responsive design, and containerized deployment using Docker.
+### Jyotish AI
 
-**Key Features**
-- Responsive gameplay experience
-- Reusable component architecture
-- Optimized asset management
-- Docker support for containerized deployment
-- Performance-focused implementation
+An AI-powered astrology platform offering personalized insights through Vedic Astrology, Tarot Reading, Numerology, Panchang, and Horoscope predictions.
+
+**Highlights**
+- AI-powered personalized readings
+- Tarot & Numerology modules
+- Panchang & Horoscope support
+- Gemini API integration
+- Notion-powered knowledge base
 
 **Tech Stack**
 
-`React.js` `JavaScript` `Docker` `CSS`
+`Nuxt.js` `Vue.js` `TypeScript` `Gemini API` `Notion API`
+
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 MindCheck
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/kizuna.png" width="45" alt="Kizuna"/>
+</td>
+<td>
 
-A mental wellness web application designed to help users better understand anxiety and depression through interactive assessments and a clean user experience.
+### Kizuna — Logic Puzzle Game
 
-**Key Features**
+A browser-based logic puzzle game inspired by LinkedIn's Zip challenge, where players connect numbered nodes in sequence to complete the entire grid without leaving any cell unvisited.
+
+**Highlights**
+- Number-sequence pathfinding gameplay
+- Interactive grid-based mechanics
+- Responsive game interface
+- Score and game-state management
+- Optimized user experience across devices
+
+**Tech Stack**
+
+`React.js` `JavaScript` `CSS` `Docker`
+
+🌐 **Live Demo:** https://kizuna-the-zip-game.vercel.app
+
+💻 **Repository:** https://github.com/kumarnilima1512-bit/Kizuna-the-zip-game
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="70" align="center">
+<img src="asset/logos/mindcheck.png" width="45" alt="MindCheck"/>
+</td>
+<td>
+
+### MindCheck
+
+A mental wellness web application designed to help users assess their emotional well-being through interactive self-assessment questionnaires while providing a simple, accessible, and user-friendly experience.
+
+**Highlights**
 - Interactive mental health assessment
-- User-friendly interface
-- Responsive design
-- Educational mental wellness resources
+- User-friendly and responsive interface
+- Instant assessment results
+- Privacy-focused experience
+- Clean and accessible design
 
 **Tech Stack**
 
 `Nuxt.js` `Vue.js` `TypeScript` `Tailwind CSS`
+
+🌐 **Live Demo:** https://mind-check-seven.vercel.app
+
+💻 **Repository:** https://github.com/kumarnilima1512-bit/MindCheck
+
+</td>
+</tr>
+</table>
 
 
 
