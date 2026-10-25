@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Nilima Kumar
+#  Nilima Kumar
 
 ### Full Stack Developer • AI Enthusiast 
 
